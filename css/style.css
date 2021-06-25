@@ -1,0 +1,29 @@
+body {
+    color: #262626;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    background-color: #FAFAFA;
+}
+
+.post{
+    background-color: white;
+}
+
+img.avatar{
+    width: 30px;
+    height: 30px;
+}
+
+.rounded{
+    border-radius: 50px;
+}
+
+.d-flex{
+    display: flex;
+    align-items: center;
+}
+
+.name{
+    padding: 5px;
+}
